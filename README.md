@@ -1,7 +1,7 @@
 # Delayed match-to-sample (DMS) task with checkerboard stimuli
 This repository contains code for a Delayed Match-to-Sample (DMS) visual task experiment using Psychtoolbox. Participants are presented with checkerboard stimuli, tasked with memorizing patterns, and required to identify the correct pattern after a delay.
 
-![Checkerboard](https://github.com/user-attachments/assets/75b94a75-cb32-46cf-8674-49d854ae481b)
+![Checkerboard](https://github.com/user-attachments/assets/ecfeb7fa-0b4e-4bde-a6a6-8805504511e7)
 
 ## Overview of the Task
 ### Experiment Design
