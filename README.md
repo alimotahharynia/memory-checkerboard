@@ -60,7 +60,7 @@ Psychtoolbox: Used for visual stimuli presentation and input handling.
 ## Installation
 -  Clone the repository:
 ```bash
-git clone https://github.com/alimotahharynia/dms-checkerboard.git  
+git clone https://github.com/alimotahharynia/memory-checkerboard.git  
 ```
 ## Citation
 If you use this model in your research, please cite our paper:
