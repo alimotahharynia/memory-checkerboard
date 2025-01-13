@@ -65,7 +65,7 @@ git clone https://github.com/alimotahharynia/dms-checkerboard.git
 ## Citation
 If you use this model in your research, please cite our paper:
 ```
-Hojjati, F., Motahharynia, A., Adibi, A. et al. Correlative comparison of visual working memory paradigms and associated models. Sci Rep 14, 20852 (2024). https://doi.org/10.1038/s41598-024-72035-5
+Hojjati F, Motahharynia A, Adibi A, Adibi I, Sanayei M. Correlative comparison of visual working memory paradigms and associated models. Sci Rep. 2024 Sep 6;14(1):20852. doi: 10.1038/s41598-024-72035-5. PMID: 39242827; PMCID: PMC11379810.
 ```
 ```
 Pourmohammadi A, Motahharynia A, Shaygannejad V, Ashtari F, Adibi I, Sanayei M. Working memory dysfunction differs between secondary progressive and relapsing multiple sclerosis: Effects of clinical phenotype, age, disease duration, and disability. Mult Scler Relat Disord. 2023 Jan;69:104411. doi: 10.1016/j.msard.2022.104411. Epub 2022 Nov 12. PMID: 36436396.
