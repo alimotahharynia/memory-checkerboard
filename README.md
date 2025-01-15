@@ -57,13 +57,20 @@ Reaction times, performance, and square patterns and figures per each delay inte
 MATLAB: Required to run the code.
 Psychtoolbox: Used for visual stimuli presentation and input handling.
 
-## Installation
+## How to Run the Experiment
 -  Clone the repository:
 ```bash
-git clone https://github.com/alimotahharynia/memory-checkerboard.git  
+git clone https://github.com/alimotahharynia/memory-checkerboard.git
 ```
+-  Open MATLAB and navigate to the cloned repository folder.
+-  Run the main script:
+```bash
+run checkerboard
+```
+-  Follow on-screen instructions for the experiment.
+
 ## Citation
-If you use this model in your research, please cite our paper:
+If you use this task in your research, please cite our paper:
 ```
 Hojjati F, Motahharynia A, Adibi A, Adibi I, Sanayei M. Correlative comparison of visual working memory paradigms and associated models. Sci Rep. 2024 Sep 6;14(1):20852. doi: 10.1038/s41598-024-72035-5. PMID: 39242827; PMCID: PMC11379810.
 ```
